@@ -23,4 +23,4 @@ cordova plugin add https://github.com/pmwisdom/cordova-background-geolocation-se
  
 ## Setup
 
-Update the URL [http://mylocation.server.url](https://github.com/rephus/geolocation-android/blob/master/www/js/index.js#L61) to send geodata to your own server
+Update the URL `http://mylocation.server.url` on [www/js/index.js](https://github.com/rephus/geolocation-android/blob/master/www/js/index.js#L61) to send geodata to your own server
