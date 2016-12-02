@@ -3,7 +3,7 @@
 Cordova Android app that sends periodically location to your own
 service (makes REST resquests), for tracking locations.
 
-![Check my REST + Redis service for storing geodata](https://github.com/rephus/rest-nodejs-redis)
+[Check my REST + Redis service for storing geodata](https://github.com/rephus/rest-nodejs-redis)
 
 This app is just a demo / wrapper of the background geolocation plugin.
 
